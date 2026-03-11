@@ -1,4 +1,4 @@
-#  CRM - Modern Customer Rlationship Management Application
+#  CRM - Modern Customer Relationship Management Application
 
 A beautiful, modern Customer Relationship Management system built with React, Java Spring Boot, and MySQL.
 
